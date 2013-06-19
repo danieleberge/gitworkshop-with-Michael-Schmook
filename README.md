@@ -1,4 +1,4 @@
-hallo git origin
+hallo git clone
 again
 
 blabla
